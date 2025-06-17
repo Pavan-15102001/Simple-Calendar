@@ -39,6 +39,7 @@ Mo Tu We Th Fr Sa Su
 30
 
 🚀 Future Enhancements
+
 1.GUI version using Tkinter
 
 2.Web-based version using Flask
